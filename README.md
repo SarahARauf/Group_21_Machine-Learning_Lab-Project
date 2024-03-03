@@ -43,6 +43,6 @@ Folder structures:
         - KL_weather.csv
         - README.md 
         
-Group 21_Machine Learning_Members & Contribution
+Group 21_Machine Learning_Members & Contribution.pdf
         - Group Members Name and Contribution
         - Youtube Video Link
